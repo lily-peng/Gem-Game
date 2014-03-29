@@ -1,6 +1,11 @@
-Read Me
+Gem Game!
+Lily Peng
 
-1. Health. The player starts with 5 health (or HP) which is shown in a JLabel at the top of the Gem Game. It decreases by one when the Player is hurt and increased when the Player is healed (Potions). When it reaches 0, the Player loses.
-2. Potion. This Item heals the Player for 1 HP.
-3. Drug. This Item harms the Player for 1 HP.
-4. Spikes. This Tile harms the Player for 1 HP for as long as the Player continues to stand on it.
+Play the game by running the executable .jar file!
+
+Green: Potions; this item heals the Player for 1 HP.
+Pink: Drugs; this item harms the Player for 1 HP.
+Cyan: Gems; this item increases your score by 1. The goal is to collect every Gem in the level.
+Red: Monsters; contact with one will lower your HP by 1.
+Yellow: Spikes; this tile will harm the Player for 1 HP for as long as the Player continues to stand on it.
+Gray: Walls; you cannot pass through these.
