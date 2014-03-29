@@ -9,3 +9,5 @@ Cyan: Gems; this item increases your score by 1. The goal is to collect every Ge
 Red: Monsters; contact with one will lower your HP by 1.
 Yellow: Spikes; this tile will harm the Player for 1 HP for as long as the Player continues to stand on it.
 Gray: Walls; you cannot pass through these.
+
+**Note: renaming _Sample Level.txt will generate a static level with all tiles arranged by color.
